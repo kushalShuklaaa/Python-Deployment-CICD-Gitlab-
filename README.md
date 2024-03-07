@@ -4,6 +4,9 @@
 ![image](https://github.com/kushalShuklaaa/Python-Deployment-CICD-Gitlab-/assets/96085546/75bcbc6c-327f-4aeb-aef8-1c50b4e88ed4)
 ![image](https://github.com/kushalShuklaaa/Python-Deployment-CICD-Gitlab-/assets/96085546/5f43e120-1389-4478-adb4-a6d7f7664a07)
 ![image](https://github.com/kushalShuklaaa/Python-Deployment-CICD-Gitlab-/assets/96085546/c8ecf435-0912-4d21-b9c1-c9c255fac764)
+
+![image](https://github.com/kushalShuklaaa/Python-Deployment-CICD-Gitlab-/assets/96085546/c4a7c0cc-a1de-4b2e-8c62-134f68a04aa4)
+
 ![image](https://github.com/kushalShuklaaa/Python-Deployment-CICD-Gitlab-/assets/96085546/8ade6e3b-ebab-46e3-9556-e81ed5aa336f)
 
 ![image](https://github.com/kushalShuklaaa/Python-Deployment-CICD-Gitlab-/assets/96085546/90651530-3707-4e49-9a57-3521de348050)
